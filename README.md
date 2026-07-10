@@ -1,6 +1,6 @@
 # rustify-music.github.io
 
-GitHub Pages site hosting Android App Links verification for [Rustify](https://github.com/rustify-music), a Spotify client for Android.
+GitHub Pages site hosting Android App Links verification for [Rustify](https://github.com/PabloSoage/Rustify), a Spotify client for Android.
 
 ## Files
 
